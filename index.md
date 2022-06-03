@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Smt Ls Devi Public School, Etah ,Uttar Pradesh 207001
 
 You can use the [editor on GitHub](https://github.com/SmtLsDeviPublicSchool/education/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
